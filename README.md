@@ -117,4 +117,4 @@ Le test se termine avec `exit code 0` : tous les tests passent.
 ---
 
 ## 👤 Auteur
-## OUADAY SARA
+# OUADAY SARA
